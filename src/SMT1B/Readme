@@ -1,0 +1,12 @@
+//Please add a folder named formulars in the SMT1B folder and add the current formulars in the folder.
+//Example: src/SMT1B/formulars/00.limboole
+//Example: src/SMT1B/formulars/01.limboole
+//Example: ...
+
+//Execute the Program and it should create a folder named results in the SMT1B folder.
+//The results folder should contain the results of the formulars in the formulars folder.
+//Example: src/SMT1B/results/00.txt
+
+//Search for the file named xx.txt in the results folder where xx is your matriculation number.
+
+//Enjoy your bonus point

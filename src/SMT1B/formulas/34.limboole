@@ -1,0 +1,16 @@
+(c & d & !b & e) | 
+(c & !a & d & !b) | 
+(b & e & d & !a) | 
+(!b & !e & !d & a) | 
+(d & !b & e & c) | 
+(!d & !c & !b & a) | 
+(!e & d & b & a) | 
+(a & b & c & d) | 
+(b & e & c & a) | 
+(c & !d & e & b) | 
+(b & d & !e & a) | 
+(!e & d & a & !c) | 
+(c & !b & !d & a) | 
+(a & !d & !b & c) | 
+(!d & !a & c & !b) | 
+(b & c & d & !a)
